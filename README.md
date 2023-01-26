@@ -5,4 +5,3 @@ Notes for POLI 175: Machine Learning for Social Scientists (UC San Diego Winter 
 
 [main textbook](https://www.statlearning.com)
 
-Canvas participation pin: *jupyter*
